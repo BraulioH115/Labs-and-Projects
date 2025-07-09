@@ -3,14 +3,13 @@
 **Course:** IS 3063 – Database Management  
 **Project:** Term Project  
 **Student:** Braulio Hurtado  
-**Group:** 6  
 **Email:** braulio.hurtado@my.utsa.edu  
 
 ---
 
 ## Project Summary
 
-This project involved designing and implementing a relational database management system (DBMS) for *Snicker and Suki*, a pet supply and service company. The company was experiencing issues with order fulfillment, inventory mismatches, and service scheduling due to poor data management. I led the design and logic for the schema, SQL functionality, and business rules despite limited team participation. This document outlines our approach, schema design, relationships, queries, and implementation plan.
+This project involved designing and implementing a relational database management system (DBMS) for *Snicker and Suki*, a pet supply and service company. The company was experiencing issues with order fulfillment, inventory mismatches, and service scheduling due to poor data management. I helped the design and logic for the schema, SQL functionality, and business rules while providing a sense of leadership and direction for the team. This document outlines our approach, schema design, relationships, queries, and implementation plan.
 
 ---
 
